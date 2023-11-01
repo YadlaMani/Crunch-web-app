@@ -30,8 +30,8 @@
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-- "git clone https://github.com/pri1311/crunch"
-- "cd crunch" 
+- "git clone https://github.com/YadlaMani/Crunch-web-app"
+- "cd Crunch-web-app" 
 - "pip install -r requirements.txt"
 - Add your cloudinary credentials to main.py, auth.py and views.py files.
 - "python main.py" 
