@@ -56,9 +56,6 @@
 
 ![ss3](https://github.com/pri1311/crunch/blob/master/screenshots/signUpPage.png)
 
-## Main Page
-
-![ss4](https://github.com/pri1311/crunch/blob/master/screenshots/chatPage.png)
 
 ## Responsive
 
